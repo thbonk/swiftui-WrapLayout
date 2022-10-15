@@ -7,7 +7,7 @@ let package = Package(
   name: "WrapLayout",
   platforms: [
     .iOS(.v13),
-    .macOS(.v10_15),
+    .macOS(.v13),
     .watchOS(.v6),
     .tvOS(.v13),
   ],
